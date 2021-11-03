@@ -1,0 +1,19 @@
+---
+title: "Creation of a new Cost layer for Denmark"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Objective
+
+To update the Naidoo And Iwamura 2007 dataset for Denmark including future projections
+
+```{r}
+set.seed(2021)
+
+sample(1:8000, 50)
+```
+
